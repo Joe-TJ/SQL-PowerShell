@@ -68,7 +68,7 @@ PID="";
 Initialize required parameters for installation:
 PID,SAPWD,SQLSVCPASSWORD,AGTSVCPASSWORD
 #>
-$Standalone_Config_SQL2016["PID"]="TBR8B-BXC4Y-298NV-PYTBY-G3BCP";
+$Standalone_Config_SQL2016["PID"]="xxxx-xxxx-xxxx-xxxx";
 $Standalone_Config_SQL2016["SAPWD"]="1qaz@WSX";
 $Standalone_Config_SQL2016["SQLSVCPASSWORD"]="1qaz@WSX";
 $Standalone_Config_SQL2016["AGTSVCPASSWORD"]="1qaz@WSX";
